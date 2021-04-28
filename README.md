@@ -18,7 +18,7 @@ Hu Zhao#, Zhuo Tu#, Yinmeng Liu, Zhanxiang Zong, Jiacheng Li, Hao Liu, Feng Xion
 
 (C) Two main functions in PlantDeepSEA. We designed two tools named *Variant Effector* and *Sequence Profiler*, the accepted inputs and outputs are listed in the plot.
 
-## Two Case Studies
+## Case Studies
 
 ![summary figure](docs/fig_2.jpg)
 
