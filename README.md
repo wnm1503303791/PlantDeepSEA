@@ -4,6 +4,10 @@
 
 [PlantDeepSEA](http://plantdeepsea.ncpgr.cn/) is a webserver based on deep learning models of chromatin accessibility for multiple plant species. It can predict the impact of genomic variants on chromatin accessibility in multiple tissues. Therefore, it can be used to prioritize genomic variants and discover high-impact cis-regulatory sites within a sequence. PlantDeepSEA is freely accessible for all users.
 
+## Citation
+
+Hu Zhao#, Zhuo Tu#, Yinmeng Liu, Zhanxiang Zong, Jiacheng Li, Hao Liu, Feng Xiong, Jinling Zhan, Xuehai Hu, and Weibo Xie* (2021). PlantDeepSEA, a deep learning-based web service to predict the regulatory effects of genomic variants in plants. *Nucleic Acids Research*, doi: 10.1093/nar/gkab383
+
 ## Overview of PlantDeepSEA
 
 ![summary figure](docs/fig_1.jpg)
